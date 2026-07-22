@@ -1,0 +1,11 @@
+streamlit
+google-api-python-client
+pandas
+plotly
+matplotlib
+wordcloud
+konlpy
+scikit-learn
+transformers
+torch
+emoji
